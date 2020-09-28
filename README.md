@@ -20,6 +20,6 @@ MERN Stack Web application for sharing places between users.
   * Express.js
   * MongoDB
   * Mongoose
-  
+  * JWT  
 
 
