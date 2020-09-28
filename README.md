@@ -1,6 +1,8 @@
 # PlaceShare
 MERN Stack Web application for sharing places between users.
 
+Demo link is at my cv.
+
 # Features
 
 * Responsive Web Design
