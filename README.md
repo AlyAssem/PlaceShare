@@ -1,8 +1,6 @@
 # PlaceShare
 MERN Stack Web application for sharing places between users.
 
-Application Demo: https://placeshare-7f72f.firebaseapp.com/
-
 # Features
 
 * Responsive Web Design
