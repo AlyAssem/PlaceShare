@@ -15,7 +15,7 @@ Application Demo: https://placeshare-7f72f.firebaseapp.com/
 # Used Technologies
 
 * Front-End
-  * React & React-Hooks
+  * React & React-Hooks & React-Context
   * CSS
   
 * Back-End
